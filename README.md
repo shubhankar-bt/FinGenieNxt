@@ -1,4 +1,4 @@
-# FinGenie - Personal Expense Tracker  dépenses
+# FinGenie - Personal Expense Tracker  
 
 FinGenie is a modern Android application designed to help users track their daily expenses effortlessly, providing insights into their spending habits through a clean, intuitive interface and visual charts.
 
