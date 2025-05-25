@@ -21,32 +21,30 @@ FinGenie aims to simplify personal finance management by offering a seamless way
     <td align="center">
       <img src="https://github.com/user-attachments/assets/40bf8ae5-1d2f-4e6b-8917-f5831b8f83f7" alt="FinGenie App Screenshot 1" width="270"/>
       <br/>
-      <em></em>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/eda648f7-cf52-4ce7-a0a6-edbf371419c2" alt="FinGenie App Screenshot 2" width="270"/>
-      <br/>
-      <em></em>
+      <em>Dashboard Screen</em>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/0c99f09d-f8cb-4ea7-858b-533223424e8b" alt="FinGenie App Screenshot 3" width="270"/>
       <br/>
       <em></em>
     </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/eda648f7-cf52-4ce7-a0a6-edbf371419c2" alt="FinGenie App Screenshot 2" width="270"/>
+      <br/>
+      <em>Add Expense Screen</em>
+    </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/5d2958d8-4877-42c6-b245-a8b42ec219f1" alt="FinGenie App Screenshot 4" width="270"/>
       <br/>
-      <em></em>
+      <em>View Expenses</em>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9bc17bd8-7e8c-43a6-b4bf-df8a187e7ede" alt="FinGenie App Screenshot 5" width="270"/>
       <br/>
-      <em></em>
+      <em>Profile Screen</em>
     </td>
-    <td align="center">
-      </td>
   </tr>
 </table>
 
