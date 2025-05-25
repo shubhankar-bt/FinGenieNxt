@@ -14,7 +14,6 @@ FinGenie aims to simplify personal finance management by offering a seamless way
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 <table>
   <tr>
@@ -26,7 +25,7 @@ FinGenie aims to simplify personal finance management by offering a seamless way
     <td align="center">
       <img src="https://github.com/user-attachments/assets/0c99f09d-f8cb-4ea7-858b-533223424e8b" alt="FinGenie App Screenshot 3" width="270"/>
       <br/>
-      <em></em>
+      <em>Dashboard Screen</em>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/eda648f7-cf52-4ce7-a0a6-edbf371419c2" alt="FinGenie App Screenshot 2" width="270"/>
@@ -115,11 +114,11 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repo:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/FinGenie.git](https://github.com/YOUR_USERNAME/FinGenie.git)
+    git clone [https://github.com/shubhankar-bt/FinGenie.git](https://github.com/shubhankar-bt/FinGenie.git)
     ```
 2.  **Firebase Setup:**
     * Create a Firebase project at [console.firebase.google.com](https://console.firebase.google.com/).
-    * Add an Android app to your Firebase project with your app's package name (e.g., `com.shubhanya.fingenienxt`).
+    * Add an Android app to your Firebase project with your app's package name (e.g., `com.example.fingenienxt`).
     * Download the `google-services.json` file from your Firebase project settings and place it in the `app/` directory of your Android project.
     * Enable **Phone Authentication** in the Firebase console (Authentication > Sign-in method).
     * Set up **Cloud Firestore** and ensure your security rules allow authenticated users to read/write their data. Create any necessary composite indexes as indicated by Firestore error messages in Logcat during development.
@@ -175,7 +174,7 @@ Don't forget to give the project a star! Thanks again!
 
 Shubhankar Das 
 
-Project Link: [https://github.com/YOUR_USERNAME/FinGenie](https://github.com/YOUR_USERNAME/FinGenie)
+Project Link: [https://github.com/shubhankar-bt/FinGenie](https://github.com/shubhankar-bt/FinGenie)
 
 ---
 
